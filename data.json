@@ -1,0 +1,223 @@
+
+ [
+{
+  "Activity": "Cooking / Baking / Food Prep",
+  "Jobs": "Chef; Pastry Chef; Baker; Caterer; Culinary Artist; Nutritionist; Food Scientist; Restaurant Owner; Personal Chef3",
+  "Niche": "Personal chef/meal-prep service; Food blogger or vlogger; Recipe developer; Cooking class instructor"
+ },
+ {
+  "Activity": "Cleaning / Housekeeping / Home Organization",
+  "Jobs": "Housekeeper; Janitor; Custodian; Hotel Housekeeping Supervisor6; Professional Organizer; Maid; Airport or Office Cleaner",
+  "Niche": "Professional organizer (decluttering services); Housekeeping gigs (private homes, short-term rentals); Airbnb cohost (cleaning /turnover)"
+ },
+ {
+  "Activity": "Gardening / Landscaping / Plant Care",
+  "Jobs": "Gardener; Landscaper; Horticulturist; Landscape Architect; Urban Farmer; Nursery Worker4; Arborist",
+  "Niche": "Garden design consultant; Landscape maintenance freelance; Plant nursery or organic farm owner"
+ },
+ {
+  "Activity": "Pet Care / Animal Care",
+  "Jobs": "Veterinarian; Veterinary Technician or Assistant; Pet Groomer; Pet Trainer; Animal Shelter Worker; Zookeeper; Wildlife Rehabilitator7",
+  "Niche": "Dog walker; Pet sitter; Pet grooming service; Horse riding instructor; Animal photography / content creation"
+ },
+ {
+  "Activity": "Childcare / Elderly Care / Nannying",
+  "Jobs": "Preschool Teacher; Nanny; Daycare Worker; Pediatric Nurse; Geriatric Care Nurse; Home Health Aide; Child or Elder Caregiver",
+  "Niche": "Babysitting or nanny services; Elderly companion or caregiver; Foster grandparent volunteer"
+ },
+ {
+  "Activity": "Driving / Transportation",
+  "Jobs": "Truck Driver; Delivery Driver (packages, food, couriers); Bus Driver; Taxi/Uber/Lyft Driver; Pilot; Train Conductor",
+  "Niche": "Rideshare (Uber/Lyft); Food/drug delivery (DoorDash, Instacart, UberEats); Mobile mechanic or carpool coordinator"
+ },
+ {
+  "Activity": "DIY / Handyman / Repairs",
+  "Jobs": "Mechanic (auto, small engine); Handyman; Carpenter; Construction Worker; Electrician; Plumber; Furniture Assembler; Manufacturing Technician",
+  "Niche": "Handyman services (TaskRabbit, Thumbtack); Custom furniture maker; Woodworking craftsman; Home renovation consultant"
+ },
+ {
+  "Activity": "Personal Finance / Budgeting / Organizing",
+  "Jobs": "Accountant; Bookkeeper; Financial Planner; Budget Analyst; Banker; Tax Preparer; Office Manager; Financial Advisor; Insurance Agent",
+  "Niche": "Freelance bookkeeping; Personal finance blogger; Budget coach; Stock/crypto day trader"
+ },
+ {
+  "Activity": "Computers / Coding / Tech Support",
+  "Jobs": "Software Developer; Web Developer; IT Support Specialist; Systems Analyst; Cybersecurity Analyst; Data Scientist; Game Programmer",
+  "Niche": "Freelance web/app developer; IT consultant; Online coding tutor; Tech support specialist on Upwork/Fiverr"
+ },
+ {
+  "Activity": "Gaming / Puzzles / Strategy Games",
+  "Jobs": "Game Developer; Game Tester; Esports Athlete; Puzzle Designer; Data Analyst; Mathematician; Statistician; AI or Robotics Engineer",
+  "Niche": "Live streamer or YouTuber (gaming); Puzzle maker or board game designer; Esports coach or commentator"
+ },
+ {
+  "Activity": "Photography / Videography",
+  "Jobs": "Photographer (portrait, wedding, commercial); Cinematographer; Videographer; Photo Editor; Photojournalist; Drone Pilot; Multimedia Specialist",
+  "Niche": "Freelance photography/videography (weddings, events); Stock photo contributor; YouTuber / vlogger"
+ },
+ {
+  "Activity": "Writing / Blogging / Journalism",
+  "Jobs": "Writer; Copywriter; Editor; Journalist; Content Strategist; Novelist; Screenwriter; Poet1; Technical Writer; Grant Writer",
+  "Niche": "Freelance writer/blogger (Upwork, Medium); Self-publishing author; eBook editor; Resume writer"
+ },
+ {
+  "Activity": "Reading / Research / Learning",
+  "Jobs": "Librarian; Researcher (academia or industry); Archivist; Editor; Translator; Professor/Teacher; Data Analyst",
+  "Niche": "Tutoring; Research freelancing; Educational content creation; Translator for books or media"
+ },
+ {
+  "Activity": "Arts & Crafts (Drawing, Painting, Design)",
+  "Jobs": "Artist; Graphic Designer; Illustrator; Animator; Interior Designer; Fashion Designer; Tattoo Artist; Art Director",
+  "Niche": "Sell art/crafts online (Etsy, Society6); Freelance graphic design (Fiverr); Muralist or set designer; Teaching art classes"
+ },
+ {
+  "Activity": "Sewing / Knitting / Jewelry",
+  "Jobs": "Tailor; Seamstress/Dressmaker; Fashion Designer; Textile Artist; Costume Designer; Upholsterer; Quilter",
+  "Niche": "Handmade clothing/jewelry seller (Etsy market); Custom sewing alterations; Fashion merchandiser; Craft workshop instructor"
+ },
+ {
+  "Activity": "Music (Instruments) / Audio Production",
+  "Jobs": "Musician; Sound Engineer; Composer; Music Producer; Music Teacher; DJ; Conductor; Audio Technician",
+  "Niche": "Private music lessons; Live gig performer; Online music courses; Session musician or background composer"
+ },
+ {
+  "Activity": "Singing / Vocal Performance",
+  "Jobs": "Singer; Opera Performer; Vocal Coach; Choir Director; Voice-Over Artist; Music Therapist",
+  "Niche": "Singing gig performer (events, studios); Voiceover acting for ads/multimedia; Online singing instructor"
+ },
+ {
+  "Activity": "Dancing / Choreography",
+  "Jobs": "Dancer (ballet, hip-hop, etc.); Choreographer; Dance Instructor; Dance Therapist; Fitness Instructor (dance-based: Zumba)",
+  "Niche": "Dance teacher (studio or online); Choreographer for theater/music videos; Party dance performer; Dance content creator"
+ },
+ {
+  "Activity": "Acting / Theater / Performance",
+  "Jobs": "Actor; Stage Manager; Theater Director; Screenwriter; Voice Actor; Drama Teacher; Film Producer; Casting Director",
+  "Niche": "Independent theater troupe; Student film actor; Audition coach; YouTube/skit performer"
+ },
+ {
+  "Activity": "Teaching / Tutoring / Coaching",
+  "Jobs": "Teacher (any subject); Corporate Trainer; Tutor; Professor; Life Coach; Career Counselor; Sports Coach; Fitness Instructor8",
+  "Niche": "Online tutoring; Coaching sessions (life, career, wellness); eCourses instructor; Academic consultant"
+ },
+ {
+  "Activity": "Helping/Others (Counseling, Nursing)",
+  "Jobs": "Nurse; Social Worker; Therapist/Psychologist; Counselor (career, academic, rehab); Physical Therapist; Occupational Therapist",
+  "Niche": "Volunteer mentor; Peer counseling; Fitness/wellness coaching; Childcare workshop facilitator"
+ },
+ {
+  "Activity": "Social Media / Marketing / PR",
+  "Jobs": "Social Media Manager; Digital Marketer; Public Relations Specialist; Content Strategist; Influencer; SEO Specialist",
+  "Niche": "Social media influencer/blogger; Freelance copywriting for marketing; Affiliate marketer"
+ },
+ {
+  "Activity": "Sales / Customer Service / Event Planning",
+  "Jobs": "Sales Representative; Retail Manager; Customer Support Specialist; Real Estate Agent; Event Planner/Coordinator; Hospitality Manager",
+  "Niche": "Party/event planner (weddings, corporate); Market vendor/entrepreneur; Pop-up store operator; Sales freelancer"
+ },
+ {
+  "Activity": "Outdoor / Nature (Hiking, Camping, Sports)",
+  "Jobs": "Park Ranger; Outdoor Educator; Conservationist; Environmental Scientist; Adventure Guide; Sports Coach9",
+  "Niche": "Outdoor guide (rafting, climbing); Personal trainer (sports, adventure coaching); Ecotour operator"
+ },
+ {
+  "Activity": "Sports (Playing / Watching sports)",
+  "Jobs": "Professional Athlete; Physical Education Teacher; Athletic Trainer; Sports Manager; Referee / Umpire; Sports Analyst; Coach9",
+  "Niche": "Sports coach; Athletic recruiter / scout; Personal sports training; Sports blogger / analyst"
+ },
+ {
+  "Activity": "Travel & Culture (Exploring, Planning Trips)",
+  "Jobs": "Travel Agent; Tour Guide; Flight Attendant; Translator; Diplomat; Anthropologist; Geographer; Chef (ethnic cuisine)",
+  "Niche": "Travel blogger/photographer; Cultural exchange coordinator; Tour content creator"
+ },
+ {
+  "Activity": "Technology Usage (Browsing, Admin)",
+  "Jobs": "IT Support; System Administrator; Data Entry Specialist; Database Administrator; Quality Assurance Tester; Office Manager",
+  "Niche": "Virtual assistant; Data entry freelancer; Computer hardware repair; App tester"
+ },
+ {
+  "Activity": "Mind Games (Logic, Strategy)",
+  "Jobs": "Mathematician; Data Scientist; Actuary; Economist; Strategist; Cryptographer; Engineer",
+  "Niche": "Strategy game developer; Puzzle/game app designer; Freelance analyst"
+ },
+ {
+  "Activity": "Finance & Trading",
+  "Jobs": "Financial Analyst; Stockbroker; Investment Banker; Trader; Credit Analyst; Accountant; Actuary",
+  "Niche": "Personal finance advisor; Stock/cryptocurrency day trader; Online budgeting coach"
+ },
+ {
+  "Activity": "Fashion & Styling",
+  "Jobs": "Fashion Designer; Personal Shopper; Wardrobe Stylist; Makeup Artist; Hairstylist",
+  "Niche": "Personal stylist; Fashion vlogger/blogger; Beauty influencer; Freelance makeover artist"
+ },
+ {
+  "Activity": "Video Watching / Editing",
+  "Jobs": "Film Critic; Video Editor; Cinematographer; YouTuber; Film Director; Television Producer; Animator",
+  "Niche": "Video essayist; YouTuber/streamer; Freelance video editor; Content curator"
+ },
+ {
+  "Activity": "Listening to Music / Podcasting",
+  "Jobs": "Radio DJ; Podcaster; Music Therapist; Audio Engineer; Critic",
+  "Niche": "Podcaster; Music reviewer blogger; DJ for events"
+ },
+ {
+  "Activity": "Collecting & Curating (Art, Antiques)",
+  "Jobs": "Curator; Archivist; Museum Educator; Antiques Dealer; Auctioneer; Appraiser",
+  "Niche": "Online collector resale (eBay, Etsy); Museum docent; Antique shop owner"
+ },
+ {
+  "Activity": "Construction / Building (Lego, Models)",
+  "Jobs": "Architect; Civil Engineer; Construction Manager; Carpenter; Toy Designer; Video Game Level Designer",
+  "Niche": "Freelance model-maker; Home builder contractor; DIY furniture maker; Architectural visualization designer"
+ },
+ {
+  "Activity": "Gardening / Farming (indoor plants, urban farm)",
+  "Jobs": "Urban Farmer; Agricultural Scientist; Botanist; Permaculture Designer; Community Garden Coordinator",
+  "Niche": "Seed bank curator; Plant nursery owner; Urban beekeeping; Farmers market vendor"
+ },
+ {
+  "Activity": "E-commerce / Online Sales",
+  "Jobs": "E-commerce Manager; Digital Merchandiser; Store Owner; Dropshipping Entrepreneur",
+  "Niche": "Online store seller (Shopify, Amazon, eBay); Etsy shop owner; Etsy digital marketing specialist"
+ },
+ {
+  "Activity": "Media / Blogging (journals, web)",
+  "Jobs": "Blogger; Social Media Content Creator; Editor; Content Strategist; Publisher",
+  "Niche": "Freelance blogging; Affiliate marketing; Podcasting; E-zine editor"
+ },
+ {
+  "Activity": "Event Coordination (Parties, Meetups)",
+  "Jobs": "Event Planner; Wedding Planner; Meeting/Event Coordinator; Conference Manager; Public Relations Specialist",
+  "Niche": "Freelance event planning; Party entertainment (DJ, magician); Event marketing consultant"
+ },
+ {
+  "Activity": "DIY Beauty (makeup, hair styling)",
+  "Jobs": "Makeup Artist; Cosmetologist; Hairstylist; Nail Technician; Salon Owner",
+  "Niche": "Freelance makeup artist; Beauty vlogger/influencer; Bridal makeup specialist"
+ },
+ {
+  "Activity": "Fitness / Yoga / Sports Practice",
+  "Jobs": "Personal Trainer; Yoga/Pilates Instructor; Physical Therapist; Occupational Therapist; Recreation Worker",
+  "Niche": "Online fitness coach; Yoga/pilates instructor; Group fitness leader; Home training video production"
+ },
+ {
+  "Activity": "Helping/Giving Advice",
+  "Jobs": "Life Coach; Career Counselor; Guidance Counselor; Religious Leader; Mentor; Psychologist",
+  "Niche": "Counseling through online platforms; Support group leader; Motivational speaking"
+ },
+ {
+  "Activity": "Crafts (Scrapbooking, Woodwork, Pottery)",
+  "Jobs": "Artisan; Craftsperson; Potter; Woodworker; Ceramics Artist; Scrapbook Designer; Jewelry Maker",
+  "Niche": "Etsy shop for crafts; DIY workshop instructor; YouTube tutorial creator"
+ },
+ {
+  "Activity": "Games & Entertainment (cards, boardgames)",
+  "Jobs": "Game Designer; Toy Designer; Animator; Recreation Worker; Casino Manager",
+  "Niche": "Board game reviewer/blogger; Puzzle/game app developer; Casino dealer; Arcade event organizer"
+ },
+ {
+  "Activity": "Other / Not Listed",
+  "Jobs": "Encourage user to specify their unique interest10",
+  "Niche": "Offer input field for custom activities to map new careers"
+ }
+ ]

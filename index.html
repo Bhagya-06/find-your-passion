@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Find Your Passion 💙</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="icon.png" type="image/png">
+</head>
+<body>
+
+    <div class="emoji-bg">
+  <span>😄</span>
+  <span>🔍</span>
+  <span>🌟</span>
+  <span>🚀</span>
+  <span>💙</span>
+  <span>🔥</span>
+  <span>🤯</span>
+  <span>🎯</span>
+  <span>🌈</span>
+  <span>💸</span>
+    </div>
+
+<div class="container">
+
+  <!-- Landing -->
+  <div id="startScreen" class="screen active">
+    <h1>✨ Find Your Passion ✨</h1>
+    <p class="subtitle">The only rule: Be honest with yourself 💙</p>
+    <button onclick="startQuiz()">Start Journey 🚀</button>
+  </div>
+
+  <!-- Quiz -->
+    <div id="quizScreen" class="screen">
+    <div class="glass-card">
+
+        <div class="progress">
+        <div id="progressBar"></div>
+        </div>
+
+        <h2 id="questionText"></h2>
+        <div id="optionsContainer"></div>
+
+        <button id="nextBtn" onclick="nextQuestion()">Next ➡️</button>
+
+    </div>
+    <input type="text" placeholder="Suggest something new..." id="suggestInput">
+    <button onclick="addSuggestion()">Add</button>
+    </div>
+
+
+  <!-- Result -->
+  <div id="resultScreen" class="screen">
+    <div class="glass-card">
+      <h1>🎉 Congratulations!</h1>
+      <p>You found your passion 😃</p>
+
+      <h2 id="finalActivity"></h2>
+      <p id="niche"></p>
+
+      <h3>Possible Careers:</h3>
+      <ul id="jobsList"></ul>
+    </div>
+  </div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
