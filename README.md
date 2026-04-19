@@ -87,8 +87,7 @@ const finalOptions = [...new Set([
 
 ## 🌐 Live Demo
 
-🔗 *Add your Netlify link here*
-Example:
+🔗
 
 ```
 https://find-your-passion.netlify.app
